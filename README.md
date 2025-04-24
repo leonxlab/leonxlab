@@ -1,7 +1,4 @@
-# Portfolio of John Doe
-
-![Profile Picture](https://via.placeholder.com/200)
-
+# Portfolio of Leon
 Welcome to my GitHub portfolio! Here you can find information about my skills and expertise.
 
 ## About Me
@@ -14,6 +11,7 @@ Hi, my name is John Doe. I am a Full Stack Developer, passionate about web devel
 - **JavaScript**
 - **Python**
 - **Java**
+
 - **C++**
 - **HTML/CSS**
 
