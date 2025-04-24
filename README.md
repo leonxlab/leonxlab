@@ -1,9 +1,9 @@
-# Portfolio of Leon
+# LeonXlab
 Welcome to my GitHub portfolio! Here you can find information about my skills and expertise.
 
 ## About Me
 
-Hi, my name is John Doe. I am a Full Stack Developer, passionate about web development and creating user-friendly applications. I enjoy developing high-quality software solutions and solving complex problems. I am always eager to learn new technologies and improve my skills.
+Hi, my name is Leon. I am a Full Stack Developer, passionate about web development and creating user-friendly applications. I enjoy developing high-quality software solutions and solving complex problems. I am always eager to learn new technologies and improve my skills.
 
 ## Skills
 
