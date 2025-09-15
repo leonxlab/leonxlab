@@ -1,75 +1,85 @@
-# LeonXlab
-Welcome to my GitHub portfolio! Here you can find information about my skills and expertise.
+# 👋 Hi, I'm Leon (LeonXLAB)
 
-## About Me
+Welcome to my GitHub portfolio!  
+I’m a **Full Stack Developer** and **Blockchain Innovator**, passionate about building digital experiences that people love and businesses rely on.
 
-Hi, my name is Leon. I am a Full Stack Developer, passionate about web development and creating user-friendly applications. I enjoy developing high-quality software solutions and solving complex problems. I am always eager to learn new technologies and improve my skills.
-
-## Skills
-
-### Programming Languages
-- **JavaScript**
-- **Python**
-- **Java**
-
-- **C++**
-- **HTML/CSS**
-
-### Frontend Frameworks and Libraries
-- **React.js**
-- **Vue.js**
-- **Angular**
-- **Bootstrap**
-- **Tailwind CSS**
-
-### Backend Frameworks and Libraries
-- **Node.js**
-- **Express.js**
-- **Django**
-- **Flask**
-- **Spring Boot**
-
-### Database Technologies
-- **MySQL**
-- **PostgreSQL**
-- **MongoDB**
-- **SQLite**
-
-### Tools and Technologies
-- **Version Control**: Git, GitHub
-- **Build Tools**: Webpack, Babel
-- **Testing**: Jest, Mocha, Chai
-- **Containerization**: Docker
-- **Cloud Services**: AWS, Heroku, Vercel
-- **CI/CD**: Jenkins, GitHub Actions
-
-### Methodologies
-- **Agile**
-- **Scrum**
-- **DevOps**
-
-### Other Skills
-- **Problem Solving**
-- **Code Optimization**
-- **Collaboration**
-- **Communication**
-- **Documentation**
-
-## Contact
-
-Feel free to reach out to me via:
-- **Email**: [leonxlab@icloud.com](mailto:leonxlab@icloud.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/leonard-manurung)
-
-## Social Media
-
-- **GitHub**: [GitHub Profile](https://github.com/leonxlab)
-- **Instagram**: [Instagram Profile](https://instagram.com/leonnn_tm)
-
-## Additional Links
-
-- **Portfolio Website**: [Leon's Portfolio](https://leonxlab.github.io)
+🌐 [Portfolio Website](https://leonxlab.github.io)  
+📩 [Email Me](mailto:leonxlab@icloud.com) | 💼 [LinkedIn](https://www.linkedin.com/in/leonard-manurung) | 🐦 [GitHub](https://github.com/leonxlab)
 
 ---
 
-**Thank you for visiting my portfolio! If you have any questions or collaboration opportunities, feel free to contact me.**
+## 🚀 About Me
+- 💻 Experienced in **web development, blockchain, and desktop applications**  
+- 🔒 Strong focus on **security-first development & optimization**  
+- 🌱 Always learning new technologies and pushing digital boundaries  
+- 🤝 Open to collaboration on innovative projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Programming Languages
+`JavaScript` • `Python` • `PHP` • `Solidity` • `Java` • `C++` • `VB.NET` • `SQL` • `HTML` • `CSS`
+
+### 🔹 Frontend
+`React.js` • `Vue.js` • `Angular` • `Bootstrap` • `Tailwind CSS`
+
+### 🔹 Backend
+`Node.js` • `Express.js` • `Django` • `Flask` • `Spring Boot` • `REST API`
+
+### 🔹 Databases
+`MySQL` • `PostgreSQL` • `MongoDB` • `SQLite`
+
+### 🔹 Tools & Platforms
+`Git & GitHub` • `Docker` • `AWS` • `Heroku` • `Vercel` • `CI/CD (GitHub Actions, Jenkins)`
+
+### 🔹 Methodologies
+`Agile` • `Scrum` • `DevOps`
+
+---
+
+## 🌟 Featured Projects
+
+### 🪙 **NeoRei ($NREI)**
+A next-generation **meme coin** that fuses viral culture with real blockchain utility:  
+- Gamified crypto learning & DeFi education  
+- Community-driven governance & tokenomics  
+- Fast, accessible, and secure design  
+
+🔗 [Learn More](https://leonxlab.github.io)  
+
+---
+
+### 🔐 **High-Security CBT Platform with AI Proctoring**
+A **next-gen exam platform** with:
+- AI eye-tracking & anti-tab switching  
+- End-to-end encryption & Midtrans payment integration  
+- Web app (PHP/MySQL/JS) + Secure desktop client (Electron, Python, PowerShell)  
+
+---
+
+### ⚙️ **Automated CAD-to-Report Pipeline**
+Transforms AutoCAD drawings (DWG/DXF) into **interactive manufacturing reports**:  
+- Extracts parts, dimensions, and metadata  
+- Quality checks & analytics-ready datasets  
+- Streamlit dashboard with Excel/PDF export  
+
+---
+
+## 📈 Ongoing Projects
+- 🎵 **Jianpu Music Recognition** (YOLO + Deep Learning)  
+- 🎼 **Jianpu-to-MIDI Conversion Software**  
+- 🏭 **AI for Industrial Design** (generative models for construction/architecture)  
+- 🌐 **NeoRei Community Ecosystem**  
+
+---
+
+## 📬 Contact
+- ✉️ **Email**: [leonxlab@icloud.com](mailto:leonxlab@icloud.com)  
+- 💼 **LinkedIn**: [Leonard Manurung](https://www.linkedin.com/in/leonard-manurung)  
+- 📸 **Instagram**: [@leonnn_tm](https://instagram.com/leonnn_tm)  
+- 🌐 **Portfolio**: [leonxlab.github.io](https://leonxlab.github.io)  
+
+---
+
+⭐️ *Thank you for visiting my GitHub! Feel free to explore my repositories and reach out for collaborations.*  
