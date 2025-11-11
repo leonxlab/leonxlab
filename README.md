@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leon Manurung
+# 👋 Hi, I'm Leonard Manurung
 
 **UI/UX Designer & Full-Stack Developer**
 
