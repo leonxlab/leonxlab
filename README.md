@@ -4,7 +4,7 @@
 
 Welcome to my GitHub portfolio! I'm passionate about crafting exceptional digital experiences that combine beautiful design with robust functionality. I specialize in building scalable web applications and creating user-centered interfaces that drive real business value.
 
-🌐 [Portfolio Website](https://leonxlab.github.io) • 📩 [Email](mailto:leonard.manurung@leonxlab.digital) • 💼 [LinkedIn](https://www.linkedin.com/in/leonard-manurung) • 📸 [Instagram](https://instagram.com/leonnn_tm)
+🌐 [Portfolio Website](https://leonxlab.digital) • 📩 [Email](mailto:leonard.manurung@leonxlab.digital) • 💼 [LinkedIn](https://www.linkedin.com/in/leonard-manurung) • 📸 [Instagram](https://instagram.com/leonnn_tm)
 
 ---
 
@@ -170,7 +170,7 @@ I'm always interested in discussing:
 - 💼 **LinkedIn**: [Leonard Manurung](https://www.linkedin.com/in/leonard-manurung)
 - 📸 **Instagram**: [@leonnn_tm](https://instagram.com/leonnn_tm)
 - 🐦 **GitHub**: [@leonxlab](https://github.com/leonxlab)
-- 🌐 **Portfolio**: [leonxlab.github.io](https://leonxlab.github.io)
+- 🌐 **Portfolio**: [leonxlab.digital](https://leonxlab.digital)
 
 ---
 
@@ -202,7 +202,7 @@ Feel free to explore my repositories, star interesting projects, and reach out f
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-leonxlab.github.io-blue?style=for-the-badge&logo=google-chrome)](https://leonxlab.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-leonxlab.digital-blue?style=for-the-badge&logo=google-chrome)](https://leonxlab.digital)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonard-manurung)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:leonard.manurung@leonxlab.digital)
 
