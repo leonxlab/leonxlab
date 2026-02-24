@@ -104,12 +104,14 @@ Stack: Next.js, Node.js, MySQL, Docker
 ## Experience
 
 ### IT Internship  
-Boccard Indonesia — June 2025  
+Boccard Indonesia
+June 2025  
 
 Developed industrial automation tools and reporting dashboards to streamline engineering documentation workflows. Built Python-based data processing pipelines to optimize manufacturing reporting processes.
 
 ### IT Project-Based Developer  
-Boccard Indonesia — January 2026 – Present  
+Boccard Indonesia
+January 2026 – Present  
 
 Designed and deployed an internal AI agent system running entirely on local infrastructure for secure enterprise usage.
 
