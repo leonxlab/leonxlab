@@ -1,209 +1,142 @@
-# 👋 Hi, I'm Leonard Manurung
+# Leonard Manurung
+Full-Stack Developer | AI & Automation Engineer
 
-**UI/UX Designer & Full-Stack Developer**
+I design and build secure, scalable systems focused on backend architecture, enterprise AI, and intelligent automation.
 
-Welcome to my GitHub portfolio! I'm passionate about crafting exceptional digital experiences that combine beautiful design with robust functionality. I specialize in building scalable web applications and creating user-centered interfaces that drive real business value.
-
-🌐 [Portfolio Website](https://leonxlab.digital) • 📩 [Email](mailto:leonard.manurung@leonxlab.digital) • 💼 [LinkedIn](https://www.linkedin.com/in/leonard-manurung) • 📸 [Instagram](https://instagram.com/leonnn_tm)
-
----
-
-## 🚀 About Me
-
-- 🎨 **UI/UX Designer** with a strong eye for detail and user experience
-- 💻 **Full-Stack Developer** experienced in modern web technologies
-- 🔒 Security-first approach to development and optimization
-- 🌱 Continuous learner, always exploring new technologies and methodologies
-- 🤝 Open to collaboration on innovative and impactful projects
-- 🏭 Experience in industrial applications and enterprise solutions
+Portfolio: [leonxlab.digital](https://leonxlab.digital)  
+Email: [leonard.manurung@leonxlab.digital](mailto:leonard.manurung@leonxlab.digital)  
+Business: [business@leonxlab.digital](mailto:business@leonxlab.digital)  
+LinkedIn: [Leonard Manurung](https://www.linkedin.com/in/leonard-manurung)  
+GitHub: [leonxlab](https://github.com/leonxlab)
 
 ---
 
-## 🛠️ Technical Skills
+## Profile
 
-### **Design & Prototyping**
-`Figma` • `Adobe XD` • `Sketch` • `Adobe Photoshop` • `Adobe Illustrator` • `Wireframing` • `User Research` • `Design Systems`
+Backend-focused Full-Stack Developer specializing in enterprise AI systems and workflow automation.
 
-### **Frontend Development**
-`React.js` • `Vue.js` • `Angular` • `Next.js` • `TypeScript` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap` • `Material-UI` • `Responsive Design`
+Experienced in building production-grade systems that process large volumes of operational data, automate execution flows, and improve efficiency across industrial and business environments.
 
-### **Backend Development**
-`Node.js` • `Express.js` • `Django` • `Flask` • `Spring Boot` • `PHP` • `RESTful API` • `GraphQL` • `Microservices`
-
-### **Programming Languages**
-`JavaScript/TypeScript` • `Python` • `Java` • `PHP` • `C++` • `SQL` • `VB.NET`
-
-### **Databases**
-`MySQL` • `PostgreSQL` • `MongoDB` • `SQLite` • `Redis` • `Database Design` • `Query Optimization`
-
-### **DevOps & Tools**
-`Git & GitHub` • `Docker` • `AWS` • `Heroku` • `Vercel` • `CI/CD` • `GitHub Actions` • `Jenkins` • `Linux` • `Nginx`
-
-### **Methodologies**
-`Agile` • `Scrum` • `DevOps` • `Design Thinking` • `User-Centered Design` • `Test-Driven Development`
+Core Focus  
+Backend architecture design  
+Enterprise AI agents  
+Workflow automation systems  
+Secure and scalable application development  
 
 ---
 
-## 🌟 Featured Projects
+## Technical Stack
 
-### 🔐 **High-Security Exam Platform with AI Proctoring**
-**Enterprise-grade Computer-Based Test (CBT) platform**
-
-A comprehensive examination system designed for educational institutions and certification bodies:
-
-**Key Features:**
-- 🤖 AI-powered proctoring with eye-tracking and behavior analysis
-- 🛡️ Advanced anti-cheating mechanisms (tab switching detection, screen monitoring)
-- 💳 Integrated payment system via Midtrans
-- 🔒 End-to-end encryption for data security
-- 📊 Real-time analytics and reporting dashboard
-- 💻 Multi-platform support (Web app + Desktop client)
-
-**Tech Stack:** PHP, MySQL, JavaScript, Electron, Python, PowerShell
-
-**Impact:** Successfully deployed for multiple examination sessions with 99.9% uptime
+Frontend: Next.js, TypeScript, JavaScript ES6+, HTML5, CSS3, Bootstrap  
+Backend: Node.js, Express.js, Flask, PHP, Python, REST API  
+Languages: JavaScript TypeScript, Python, Java, PHP, C++, SQL, VB.NET  
+Databases: MySQL, MongoDB, SQLite  
+Infrastructure: Docker, AWS, Linux, Nginx, Git  
 
 ---
 
-### ⚙️ **Automated CAD-to-Report Pipeline**
-**Industrial design automation system**
+## Selected Work
 
-Transforms AutoCAD technical drawings into actionable manufacturing intelligence:
+### High-Security Exam Platform
 
-**Key Features:**
-- 📐 Automated extraction of parts, dimensions, and metadata from DWG/DXF files
-- ✅ Intelligent quality control checks and validation
-- 📊 Interactive dashboard with advanced analytics
-- 📄 Export to Excel, PDF, and other formats
-- 🔄 Batch processing capabilities for multiple drawings
-- 📈 Analytics-ready datasets for business intelligence
+Enterprise-grade computer-based testing system with AI-assisted monitoring and behavioral detection.
 
-**Tech Stack:** Python, Streamlit, AutoCAD API, Pandas, ReportLab
+The system includes encrypted data handling, real-time monitoring dashboards, and both desktop and web deployment architecture.
 
-**Impact:** Reduced manual processing time by 85%, improved accuracy to 98%
+Stack: PHP, MySQL, JavaScript, Electron, Python  
+Production usage: 5,000+ users  
 
 ---
 
-### 🎵 **Jianpu Music Recognition System**
-**AI-powered music notation detection**
+### Agentic AI System
 
-An innovative application that digitizes traditional Chinese musical notation:
+Autonomous enterprise AI system translating natural language instructions into executable multi-step operational workflows.
 
-**Key Features:**
-- 🖼️ Computer vision-based notation detection using YOLO
-- 🧠 Deep learning model for symbol classification
-- 🎹 Automatic conversion to MIDI format
-- 📱 User-friendly interface for musicians
-- 🔄 Batch processing for music sheets
+The system understands complex instructions containing multiple actions within a single sentence and executes them across internal systems.
 
-**Tech Stack:** Python, YOLO, TensorFlow, OpenCV, MIDI libraries
+Enterprise capabilities include:
 
-**Status:** In active development
+Processing multiple Purchase Order PDFs into structured database records  
+Extracting and validating invoice data  
+Automated reconciliation between PO and invoice entries  
+Stock quantity updates  
+Pricing adjustments  
+Order status management  
+Data comparison, aggregation, and transformation  
+Database synchronization across internal systems  
 
----
+Runs fully on local infrastructure with LoRA-adapted models trained on company-specific terminology and operational datasets to ensure data security and contextual accuracy.
 
-### 🏢 **Enterprise Resource Planning (ERP) Dashboard**
-**Business management solution**
-
-Custom ERP system tailored for manufacturing and service industries:
-
-**Key Features:**
-- 📊 Real-time business analytics and KPI tracking
-- 👥 Multi-role user management with granular permissions
-- 📦 Inventory and supply chain management
-- 💼 Customer relationship management (CRM) integration
-- 📈 Financial reporting and forecasting tools
-- 🔔 Automated notifications and workflow management
-
-**Tech Stack:** React.js, Node.js, PostgreSQL, Redis, Docker
+Stack: Python, LLM API, Vector memory architecture  
 
 ---
 
-## 📚 Currently Learning & Exploring
+### Real-Time Excel to Cloud Sync
 
-- 🤖 Advanced Machine Learning and AI applications
-- 🎨 Motion Design and Advanced Animation techniques
-- ☁️ Cloud Architecture (AWS, Azure, GCP)
-- 🌐 Web3 technologies and decentralized applications
-- 📱 Mobile-first development with React Native
-- 🔍 Performance optimization and scalability patterns
+Automation system that monitors Excel updates and synchronizes validated structured data to cloud databases.
 
----
+Includes file-trigger detection, schema validation, transformation pipelines, and secure API synchronization.
 
-## 📊 GitHub Statistics
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonxlab&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonxlab&layout=compact&theme=radical)
+Stack: Python, Pandas, REST API  
 
 ---
 
-## 💼 Professional Experience
+### Automated CAD-to-Report Pipeline
 
-### **UI/UX Designer & Full-Stack Developer**
-*Freelance | 2020 - Present*
+Industrial automation system converting technical drawings into structured manufacturing reports.
 
-- 🎨 Designed and developed 30+ web applications and digital products
-- 👥 Collaborated with cross-functional teams and stakeholders
-- 📈 Improved user engagement by average of 45% through UX optimizations
-- 🔧 Implemented modern development practices and design systems
+Parses DWG and DXF files, extracts metadata, validates components, and exports structured Excel and PDF reports.
 
-### **Key Achievements:**
-- ✅ Successfully delivered high-security exam platform used by 5,000+ students
-- ✅ Automated industrial workflows, saving 100+ hours monthly
-- ✅ Built responsive web applications with 99%+ performance scores
-- ✅ Created design systems adopted across multiple projects
+Achieved approximately 85 percent reduction in manual processing time.
+
+Stack: Python, Streamlit, AutoCAD API  
 
 ---
 
-## 🤝 Let's Connect!
+### ERP Dashboard
 
-I'm always interested in discussing:
-- 💡 Innovative project ideas and collaborations
-- 🎨 UI/UX design principles and best practices
-- 💻 Full-stack development challenges and solutions
-- 🚀 Opportunities to create impactful digital experiences
+Operational analytics and workflow management platform with KPI monitoring, access control, inventory tracking, financial reporting, and automation logic.
 
-### **Contact Information**
-
-- ✉️ **Email**: [leonard.manurung@leonxlab.digital](mailto:leonard.manurung@leonxlab.digital)
-- 💼 **LinkedIn**: [Leonard Manurung](https://www.linkedin.com/in/leonard-manurung)
-- 📸 **Instagram**: [@leonnn_tm](https://instagram.com/leonnn_tm)
-- 🐦 **GitHub**: [@leonxlab](https://github.com/leonxlab)
-- 🌐 **Portfolio**: [leonxlab.digital](https://leonxlab.digital)
+Stack: Next.js, Node.js, MySQL, Docker  
 
 ---
 
-## 📝 Blog & Articles
+## Experience
 
-I occasionally write about web development, design, and technology. Check out my latest articles:
+### IT Internship  
+Boccard Indonesia — June 2025  
 
-- 📄 *Coming Soon: Building Secure Web Applications*
-- 📄 *Coming Soon: Modern UI/UX Design Principles*
-- 📄 *Coming Soon: Full-Stack Development Best Practices*
+Developed industrial automation tools and reporting dashboards to streamline engineering documentation workflows. Built Python-based data processing pipelines to optimize manufacturing reporting processes.
+
+### IT Project-Based Developer  
+Boccard Indonesia — January 2026 – Present  
+
+Designed and deployed an internal AI agent system running entirely on local infrastructure for secure enterprise usage.
+
+Implemented LoRA-based model adaptation aligned with company-specific operational language and datasets.
+
+Built a natural language execution engine capable of handling multi-action commands such as automated PO processing, invoice reconciliation, stock updates, pricing adjustments, and structured database synchronization.
+
+Integrated AI agents directly with internal systems and operational dashboards to accelerate high-volume document processing and reduce manual administrative workload.
+
+### Freelance Developer  
+2020 – Present  
+
+Delivered secure web systems and backend architectures for events, personal projects, SMEs, and mid-sized businesses.
+
+### Technical Project Lead – Multiplayer Systems  
+2021 – 2023
+
+Led multiplayer system architecture projects focusing on real-time logic implementation, deployment stability, and backend performance optimization.
 
 ---
 
-### 💡 Fun Facts
+## Open to Collaboration
 
-- ☕ Fueled by coffee and curiosity
-- 🎵 Music enthusiast with a passion for traditional notation
-- 🏭 Interested in industrial automation and AI applications
-- 🌏 Based in Bandar Lampung, Indonesia
+Open to enterprise AI deployment, local LLM systems, backend architecture consulting, and workflow automation initiatives.
 
----
-
-⭐️ **Thank you for visiting my GitHub!**  
-Feel free to explore my repositories, star interesting projects, and reach out for collaborations or just to say hi!
-
-*"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+For collaboration, enterprise AI implementation, or backend system development, feel free to reach out via email or LinkedIn. I am open to strategic and long-term technical partnerships.
 
 ---
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-leonxlab.digital-blue?style=for-the-badge&logo=google-chrome)](https://leonxlab.digital)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonard-manurung)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:leonard.manurung@leonxlab.digital)
-
-</div>
+If you are building systems that require intelligent automation, secure AI deployment, or scalable backend infrastructure, let’s connect and build solutions that execute.
