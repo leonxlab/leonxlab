@@ -85,9 +85,11 @@ Backend-focused Full-Stack Developer specializing in enterprise AI systems and w
 ## Education
 
 **Universitas Indonesia**
+
 *Applied Bachelor (Sarjana Terapan) in Creative Business* | 2026 – Present
 
 **Institut Teknologi Sumatera**
+
 *Undergraduate Coursework in Informatics Engineering* | 2025 – 2026
 
 ---
