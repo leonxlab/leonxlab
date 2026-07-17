@@ -75,7 +75,7 @@ Backend-focused Full-Stack Developer specializing in enterprise AI systems and w
 **2020 – Present**
 * Delivered secure web systems, tailored automation tools, and backend architectures for personal projects, SMEs, and mid-sized businesses.
 
-### **Technical Project Lead** — *Open-Source Multiplayer Systems (GTA SAMP - Unofficial Multiplayer Modification)*
+### **Technical Project Lead** — *Open-Source Unofficial Multiplayer Systems (GTA SAMP)*
 **2021 – 2023**
 * **System Architecture:** Led multiplayer system architecture projects for community-driven server modifications, focusing on real-time logic implementation and deployment stability.
 * **Performance Optimization:** Optimized relational database queries (MySQL) and memory management to handle high-concurrency environments and minimize server latency.
@@ -85,11 +85,9 @@ Backend-focused Full-Stack Developer specializing in enterprise AI systems and w
 ## Education
 
 **Universitas Indonesia**
-
 *Applied Bachelor (Sarjana Terapan) in Creative Business* | 2026 – Present
 
 **Institut Teknologi Sumatera**
-
 *Undergraduate Coursework in Informatics Engineering* | 2025 – 2026
 
 ---
