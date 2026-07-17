@@ -103,15 +103,9 @@ Stack: Next.js, Node.js, MySQL, Docker
 
 ## Experience
 
-### IT Internship  
+### IT Internship
 Boccard Indonesia  
-June 2025  
-
-Developed industrial automation tools and reporting dashboards to streamline engineering documentation workflows. Built Python-based data processing pipelines to optimize manufacturing reporting processes.
-
-### IT Project-Based Developer  
-Boccard Indonesia  
-January 2026 – Present  
+January 2026
 
 Designed and deployed an internal AI agent system running entirely on local infrastructure for secure enterprise usage.
 
@@ -121,12 +115,22 @@ Built a natural language execution engine capable of handling multi-action comma
 
 Integrated AI agents directly with internal systems and operational dashboards to accelerate high-volume document processing and reduce manual administrative workload.
 
+### IT Internship
+Boccard Indonesia  
+July 2026
+
+### IT Internship  
+Boccard Indonesia  
+June 2025  
+
+Developed industrial automation tools and reporting dashboards to streamline engineering documentation workflows. Built Python-based data processing pipelines to optimize manufacturing reporting processes.
+
 ### Freelance Developer  
 2020 – Present  
 
 Delivered secure web systems and backend architectures for events, personal projects, SMEs, and mid-sized businesses.
 
-### Technical Project Lead – Multiplayer Systems  
+### Technical Project Lead – GTA SAMP (Unofficial Multiplayer Modification)
 2021 – 2023
 
 Led multiplayer system architecture projects focusing on real-time logic implementation, deployment stability, and backend performance optimization.
